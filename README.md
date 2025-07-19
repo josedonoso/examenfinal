@@ -1,2 +1,2 @@
 # patrones-examen
-Código fuente para el desarrollo del Examen del curso de Patrones de Diseño
+Codigo para el examen final de patrones de diseño
